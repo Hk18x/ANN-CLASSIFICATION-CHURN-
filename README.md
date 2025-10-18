@@ -83,6 +83,10 @@ A simple feedforward ANN using Keras:
 - TensorBoard logs saved in `logs/fit/`  
 
 ---
+## 💾 Model Performance
+- Training Accuracy: ~87%
+- Validation Accuracy: ~86.5%
+- Early stopping used to avoid overfitting
 
 ## 💾 Saving the Model
 
